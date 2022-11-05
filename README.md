@@ -1,2 +1,5 @@
 # Twitter-Account-Generator
-Advanced twitter account generator coded in Go.
+
+Fully requests + Captcha bypass + Phone/Full verify
+
+Contact my telegram to purchase @unflavoured
