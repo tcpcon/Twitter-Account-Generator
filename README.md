@@ -1,7 +1,5 @@
 # Twitter-Account-Generator
 
-Fully requests + Captcha bypass + Email/Phone/Full verify
+Fully requests + Captcha bypass + Email/Phone/Full verify (PATCHED)
 
-$250 for (windows) compiled authed version.
-
-Contact my telegram for more info @unflavoured
+Will return to this at some point...
